@@ -1,2 +1,2 @@
 # campello-mobile-scanner
-:fax: Mobile application to scan documents
+:fax: Mobile app to scan documents
